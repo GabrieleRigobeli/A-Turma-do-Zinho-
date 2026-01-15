@@ -14,6 +14,6 @@ O site apresenta o trabalho da **Tia Jaque** e do **Tio Ricardinho**, com foco e
 * **Font Awesome**: Ícones sociais para conexão com Instagram e YouTube.
 
 ## Galeria
-O projeto conta com uma página dedicada (`galeria.html`) exibindo 16 registros de eventos em alta qualidade.
+O projeto conta com uma página dedicada com algumas imagens de eventos.
 
 *Criado com amor para o Reino de Deus.*
