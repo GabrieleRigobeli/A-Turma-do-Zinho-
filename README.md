@@ -1,19 +1,31 @@
-# A Turma do Zinho - Site Oficial
+# 🎨 A Turma do Zinho – Site Institucional
 
-Bem-vindo ao repositório do site da **Turma do Zinho**! Este projeto foi desenvolvido para levar a Palavra de Deus de forma alegre e lúdica para crianças e famílias em escolas e igrejas.
+## 📌 Sobre o Projeto
 
-## Sobre o Projeto
-O site apresenta o trabalho da **Tia Jaque** e do **Tio Ricardinho**, com foco em:
-* **Musical de Natal**: Vídeos emocionantes do YouTube integrados diretamente na página.
-* **Galeria de Eventos**: Registro fotográfico de missões realizadas.
-* **Conteúdo Fluido**: Navegação interativa inspirada em portais institucionais modernos.
+Este repositório contém o código de um **site estático institucional** desenvolvido com HTML e CSS, criado como parte de um trabalho ou projeto de apresentação. O site apresenta conteúdo visual, galeria de imagens e informações sobre temas relacionados à “Turma do Zinho”, com navegação simples e interativa.
 
-## Tecnologias Utilizadas
-* **HTML5**: Estruturação de conteúdo e acessibilidade.
-* **CSS3**: Design responsivo com menus interativos e efeitos de hover.
-* **Font Awesome**: Ícones sociais para conexão com Instagram e YouTube.
+O objetivo principal foi aplicar boas práticas de estruturação HTML e design responsivo com CSS para criar um site informativo e agradável.
 
-## Galeria
-O projeto conta com uma página dedicada com algumas imagens de eventos.
+---
 
-*Criado com amor para o Reino de Deus.*
+## 🧠 Funcionalidades
+
+- 🏠 **Página inicial** com apresentação do projeto/site
+- 🖼️ **Galeria de imagens** com eventos ou ilustrações
+- 📄 Conteúdo organizado em diferentes seções para melhor leitura
+- 🎨 Estilização visual utilizando CSS moderno
+- 🧩 Ícones e elementos visuais adicionados para melhorar a experiência do usuário
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5** – marcação semântica para estrutura do site  
+- **CSS3** – estilização e layout responsivo  
+- **Font Awesome** – ícones visuais (quando aplicável)  
+- **Padrões web acessíveis** para garantir compatibilidade entre navegadores  
+
+---
+
+## 📁 Estrutura do Projeto
+
