@@ -28,4 +28,43 @@ O objetivo principal foi aplicar boas práticas de estruturação HTML e design 
 ---
 
 ## 📁 Estrutura do Projeto
+A-Turma-do-Zinho-/
+├── index.html ← Página principal do site
+├── galeria.html ← Página de galeria de imagens
+├── style.css ← Estilos visuais do projeto
+├── img/ ← Imagens utilizadas no site
+└── README.md ← Documentação do projeto
+
+---
+
+## 📌 Como Visualizar o Site
+
+Este é um site estático, então para testá-lo localmente você pode:
+
+1. Abrir o arquivo `index.html` diretamente no navegador  
+2. Ou servir com uma extensão Live Server no VS Code  
+
+📍 Basta dar duplo clique no `index.html` para abrir no navegador.
+
+---
+
+## 🧠 Aprendizados e Boas Práticas
+
+Este projeto ajudou a reforçar:
+
+- **Estrutura de projetos web com HTML + CSS**
+- Organização de conteúdo em páginas conectadas
+- Estrutura semântica de elementos HTML
+- Aplicação de estilos visuais com CSS
+
+---
+
+## 👩‍💻 Autora
+
+**Gabriele Rigobeli**  
+Estudante de Tecnologia da Informação  
+Foco em desenvolvimento web e DevOps
+
+🔗 GitHub: https://github.com/GabrieleRigobeli
+
 
